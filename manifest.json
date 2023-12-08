@@ -1,11 +1,11 @@
 {
-    "name": "hyper_personal_app",
-    "short_name": "hyper_personal_app",
+    "name": "book_publishing",
+    "short_name": "book_publishing",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Flutter Application for Book Publishing...",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
